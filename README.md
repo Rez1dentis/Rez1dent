@@ -1,7 +1,7 @@
 # Hello World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 <div>
 <p><br>
-   <h3>My name is Ivan and I'm a FullStack JS Developer.</h3><br>
+   <h2>My name is Ivan and I'm a FrontEnd JS Developer.</h2><br>
 </p>
 
    <img align="right" alt="coding" src="https://64.media.tumblr.com/473270f06673ac5cca705ec334511483/a08f85053dec6069-79/s540x810/4879da9b36e8c2eade01bc3dc1aadaac3293c7ad.gif" data-canonical-src="https://thumbs.gfycat.com/PointedFrequentImperatorangel-size_restricted.gif" style="height: 140px; max-width: 350px; position: absolute; right: 200px; display: inline-block;" data-target="animated-image.originalImage">
