@@ -1,4 +1,4 @@
-# Hello World 👋 
+# Hello World! 👋 
 <div>
 <p><br>
    My name is Ivan and I'm a FullStack JS Developer.<br>
@@ -11,8 +11,8 @@
 <a name="telegram" href="https://t.me/Rez1dentis"><img src="https://img.icons8.com/color/48/000000/telegram-app--v3.png"/></a>
 <a name="watsapp" href="https://wa.me/79199990592"> <img src="https://img.icons8.com/color/48/000000/whatsapp--v6.png"/></a>
 <a name="linkedin" href="#"> <img src="https://img.icons8.com/fluency/48/000000/linkedin-circled.png"/></a>
-<a name="gmail" href="jean.kosenko@gmail.com"> <img src="https://img.icons8.com/color/48/000000/gmail-new.png"/></a><br>
-<a href="https://instagram.com/vans_front" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vans_front" height="30" width="40" /></a>  
+<a name="gmail" href="jean.kosenko@gmail.com"> <img src="https://img.icons8.com/color/48/000000/gmail-new.png"/></a>
+<a href="https://instagram.com/vans_front" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vans_front" height="30" width="40" /></a><br>  
    ## CV
 
    <a name="cv" href="https://www.canva.com/design/DAErSBoz6ts/KagxXBpgNBNQ1rdmJIuK6A/view?utm_content=DAErSBoz6ts&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton" ><img src="https://img.icons8.com/nolan/64/parse-from-clipboard.png"/> </a><br>
