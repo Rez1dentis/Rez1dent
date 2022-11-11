@@ -11,20 +11,7 @@
 
    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=rez1dentis&show_icons=true&locale=en&layout=compact)
   
-  ## There are some links to contact me:
-  
-<a name="telegram" href="https://t.me/Rez1dentis"><img src="https://img.icons8.com/color/48/000000/telegram-app--v3.png"/></a>
-<a name="watsapp" href="https://wa.me/79199990592"> <img src="https://img.icons8.com/color/48/000000/whatsapp--v6.png"/></a>
-<a name="linkedin" href="#"> <img src="https://img.icons8.com/fluency/48/000000/linkedin-circled.png"/></a>
-<a name="gmail" href="jean.kosenko@gmail.com"> <img src="https://img.icons8.com/color/48/000000/gmail-new.png"/></a>
-<a href="https://instagram.com/vans_front" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vans_front" height="36" width="40" /></a><br>  
-   ## CV
-
-   <a name="cv" href="https://www.canva.com/design/DAErSBoz6ts/KagxXBpgNBNQ1rdmJIuK6A/view?utm_content=DAErSBoz6ts&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton" ><img src="https://img.icons8.com/nolan/64/parse-from-clipboard.png"/> </a><br>
-   <h3><a name="hh" href="https://hh.ru/applicant/resumes/view?resume=714cc908ff09edb9ef0039ed1f6e364c694d6e">CV on hh.ru</a></h3>
-</div>
-
-## 🛠 My Tech Stack:
+   ## 🛠 My Tech Stack:
 
 <h3>Main:</h3>
 
@@ -53,13 +40,28 @@
 <img src="https://img.shields.io/badge/Jest-282C34?logo=jest&logoColor=C21325" alt="Jest logo" title="Jest" height="25" />
 <img src="https://img.shields.io/badge/API-282C34?logo=api&logoColor=E10098" alt="API logo" title="API" height="25" /><br>
 <img src="https://img.shields.io/badge/Docker-282C34?logo=docker&logoColor=E10098" alt="Docker logo" title="Docker" height="25" />&nbsp;&nbsp;<span>Basic knowleges</span>
-
-## My development plans:
+  
+   ## My development plans:
 
 <a name="learning-now"></a>
 <img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" />
 <img src="https://img.shields.io/badge/React Native-282C34?logo=react&logoColor=61DAFB" alt="React Native logo" title="React Native" height="25" /><br>
 <img src="https://img.shields.io/badge/Vue.js-282C34?logo=vue&logoColor=FFFFFF" alt="Vue.js logo" title="Vue.js" height="25" /><br>
+   
+   ## There are some links to contact me:
+  
+<a name="telegram" href="https://t.me/Rez1dentis"><img src="https://img.icons8.com/color/48/000000/telegram-app--v3.png"/></a>
+<a name="watsapp" href="https://wa.me/79199990592"> <img src="https://img.icons8.com/color/48/000000/whatsapp--v6.png"/></a>
+<a name="linkedin" href="#"> <img src="https://img.icons8.com/fluency/48/000000/linkedin-circled.png"/></a>
+<a name="gmail" href="jean.kosenko@gmail.com"> <img src="https://img.icons8.com/color/48/000000/gmail-new.png"/></a>
+<a href="https://instagram.com/vans_front" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vans_front" height="36" width="40" /></a><br>  
+   
+   ## CV
+
+   <a name="cv" href="https://www.canva.com/design/DAErSBoz6ts/KagxXBpgNBNQ1rdmJIuK6A/view?utm_content=DAErSBoz6ts&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton" ><img src="https://img.icons8.com/nolan/64/parse-from-clipboard.png"/> </a><br>
+   <h3><a name="hh" href="https://hh.ru/applicant/resumes/view?resume=714cc908ff09edb9ef0039ed1f6e364c694d6e">CV on hh.ru</a></h3>
+</div>
+
 
 ## Languages:
 
