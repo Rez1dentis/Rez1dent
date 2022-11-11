@@ -9,7 +9,7 @@
 ##
    <img align="right" alt="coding" src="https://64.media.tumblr.com/473270f06673ac5cca705ec334511483/a08f85053dec6069-79/s540x810/4879da9b36e8c2eade01bc3dc1aadaac3293c7ad.gif" data-canonical-src="https://thumbs.gfycat.com/PointedFrequentImperatorangel-size_restricted.gif" style="height: 140px; max-width: 350px; position: absolute; right: 200px; display: inline-block;" data-target="animated-image.originalImage">
 
-   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rez1dentis&show_icons=true&text_color=0aa3d6&bg_color=050910&hide_border=true&cache_seconds=1800&locale=en&layout=compact" alt="rez1dentis" /></p>
+   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rez1dentis&show_icons=true&text_color=23b6e7&bg_color=0e1625&hide_border=true&cache_seconds=1800&locale=en&layout=compact" alt="rez1dentis" /></p>
   
    ## 🛠 My Tech Stack:
 
