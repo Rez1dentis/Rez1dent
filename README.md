@@ -6,6 +6,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=rez1dentis&show_icons=true&locale=en&layout=compact)
   
+  <img align="right" alt="coding" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmobpsycho100.tumblr.com%2Fpost%2F629790132926611456&psig=AOvVaw1IDyhasOXiyK2ejSCWgiWy&ust=1668259779547000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCOimpI6epvsCFQAAAAAdAAAAABAO" data-canonical-src="https://thumbs.gfycat.com/PointedFrequentImperatorangel-size_restricted.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+
 ## There are some links to contact me:
   
 <a name="telegram" href="https://t.me/Rez1dentis"><img src="https://img.icons8.com/color/48/000000/telegram-app--v3.png"/></a>
