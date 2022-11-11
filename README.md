@@ -4,7 +4,7 @@
    My name is Ivan and I'm a FullStack JS Developer.<br>
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kurlatov&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=rez1dentis&show_icons=true&locale=en&layout=compact)
   
 ## There are some links to contact me:
   
