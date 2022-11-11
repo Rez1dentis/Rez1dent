@@ -1,9 +1,12 @@
 # Hello World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 <div>
-<p><br>
-   <h2>My name is Ivan and I'm a FrontEnd JS Developer.</h2><br>
-</p>
 
+   <div align="center">
+  <img src="https://media.giphy.com/media/KHxIUrzUhO9cGdMUTD/giphy.gif" width="100%" height="100%" alt="Logo"/>
+</div>
+
+
+##
    <img align="right" alt="coding" src="https://64.media.tumblr.com/473270f06673ac5cca705ec334511483/a08f85053dec6069-79/s540x810/4879da9b36e8c2eade01bc3dc1aadaac3293c7ad.gif" data-canonical-src="https://thumbs.gfycat.com/PointedFrequentImperatorangel-size_restricted.gif" style="height: 140px; max-width: 350px; position: absolute; right: 200px; display: inline-block;" data-target="animated-image.originalImage">
 
    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=rez1dentis&show_icons=true&locale=en&layout=compact)
