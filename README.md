@@ -62,3 +62,11 @@
 
 <span>Russian <img src="https://img.icons8.com/emoji/48/000000/russia-emoji.png"/></span>&nbsp;&nbsp;&nbsp;&nbsp;
 <span>English <img src="https://img.icons8.com/emoji/48/000000/united-kingdom-emoji.png"/></span>
+
+##
+
+<div>
+   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rez1dentis&show_icons=true&locale=en" alt="rez1dentis" /></p>
+   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rez1dentis&" alt="rez1dentis" /></p>
+   <p align="left"> <img src="https://komarev.com/ghpvc/?username=rez1dentis&label=Profile%20views&color=ce3c2c&style=flat" alt="rez1dentis" /> </p>
+</div>
