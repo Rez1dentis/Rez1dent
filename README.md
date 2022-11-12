@@ -4,12 +4,6 @@
    <div align="center">
   <img src="https://media.giphy.com/media/KHxIUrzUhO9cGdMUTD/giphy.gif" width="500px" height="100%" alt="Logo"/>
 </div>
-
-
-##
-   <img align="right" alt="coding" src="https://64.media.tumblr.com/473270f06673ac5cca705ec334511483/a08f85053dec6069-79/s540x810/4879da9b36e8c2eade01bc3dc1aadaac3293c7ad.gif" data-canonical-src="https://thumbs.gfycat.com/PointedFrequentImperatorangel-size_restricted.gif" style="height: 140px; max-width: 350px; position: absolute; right: 200px; display: inline-block;" data-target="animated-image.originalImage">
-
-   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rez1dentis&show_icons=true&text_color=23b6e7&bg_color=0e1625&hide_border=true&cache_seconds=1800&locale=en&layout=compact" alt="rez1dentis" /></p>
   
    ## 🛠 My Tech Stack:
 
@@ -41,6 +35,12 @@
 <img src="https://img.shields.io/badge/API-282C34?logo=api&logoColor=E10098" alt="API logo" title="API" height="25" /><br>
 <img src="https://img.shields.io/badge/Docker-282C34?logo=docker&logoColor=E10098" alt="Docker logo" title="Docker" height="25" />&nbsp;&nbsp;<span>Basic knowleges</span>
   
+ ##  
+   
+ <img align="right" alt="coding" src="https://64.media.tumblr.com/473270f06673ac5cca705ec334511483/a08f85053dec6069-79/s540x810/4879da9b36e8c2eade01bc3dc1aadaac3293c7ad.gif" data-canonical-src="https://thumbs.gfycat.com/PointedFrequentImperatorangel-size_restricted.gif" style="height: 140px; max-width: 350px; position: absolute; right: 200px; display: inline-block;" data-target="animated-image.originalImage">
+
+   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rez1dentis&show_icons=true&text_color=23b6e7&bg_color=0e1625&hide_border=true&cache_seconds=1800&locale=en&layout=compact" alt="rez1dentis" /></p>  
+   
    ## My development plans:
 
 <a name="learning-now"></a>
@@ -61,6 +61,7 @@
    <a name="cv" href="https://www.canva.com/design/DAErSBoz6ts/KagxXBpgNBNQ1rdmJIuK6A/view?utm_content=DAErSBoz6ts&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton" ><img src="https://img.icons8.com/nolan/64/parse-from-clipboard.png"/> </a><br>
    <h3><a name="hh" href="https://hh.ru/applicant/resumes/view?resume=714cc908ff09edb9ef0039ed1f6e364c694d6e">CV on hh.ru</a></h3>
 </div>
+
 
 
 ## Languages:
