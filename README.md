@@ -52,7 +52,7 @@
   
 <a name="telegram" href="https://t.me/Rez1dentis"><img src="https://img.icons8.com/color/48/000000/telegram-app--v3.png"/></a>
 <a name="watsapp" href="https://wa.me/79199990592"> <img src="https://img.icons8.com/color/48/000000/whatsapp--v6.png"/></a>
-<a name="linkedin" href="#"> <img src="https://img.icons8.com/fluency/48/000000/linkedin-circled.png"/></a>
+<a name="linkedin" href="https://www.linkedin.com/in/ivan-kosenko-49ab84256/"> <img src="https://img.icons8.com/fluency/48/000000/linkedin-circled.png"/></a>
 <a name="gmail" href="jean.kosenko@gmail.com"> <img src="https://img.icons8.com/color/48/000000/gmail-new.png"/></a>
 <a href="https://instagram.com/vans_front" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vans_front" height="36" width="40" /></a><br>  
    
