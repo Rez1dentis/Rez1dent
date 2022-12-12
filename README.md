@@ -65,7 +65,7 @@
 
 ## Languages:
 
-<span>Russian <img src="https://img.icons8.com/emoji/48/000000/russia-emoji.png"/></span>&nbsp;&nbsp;&nbsp;&nbsp;
+<span>Russian <img src="https://emojiguide.org/images/emoji/h/1vue3mmx9e54h.png" alt="flag" height="48" width="48"/></span>&nbsp;&nbsp;&nbsp;&nbsp;
 <span>English <img src="https://img.icons8.com/emoji/48/000000/united-kingdom-emoji.png"/></span>
 
 ##
