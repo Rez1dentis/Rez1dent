@@ -18,6 +18,7 @@
 <a name="learning-now"></a>
 <img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB" alt="React Native logo" title="React" height="25" />
 <img src="https://img.shields.io/badge/Redux(Thunk/Saga)-282C34?logo=redux&logoColor=764ABC" alt="Redux logo" title="Redux" height="25" />
+<img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" />
 <img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" />
 <img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" />
 <img src="https://img.shields.io/badge/Sass-282C34?logo=sass&logoColor=CC6699" alt="Sass logo" title="Sass" height="25" />
@@ -40,14 +41,7 @@
  <img align="right" alt="coding" src="https://64.media.tumblr.com/473270f06673ac5cca705ec334511483/a08f85053dec6069-79/s540x810/4879da9b36e8c2eade01bc3dc1aadaac3293c7ad.gif" data-canonical-src="https://thumbs.gfycat.com/PointedFrequentImperatorangel-size_restricted.gif" style="height: 140px; max-width: 350px; position: absolute; right: 200px; display: inline-block;" data-target="animated-image.originalImage">
 
    <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rez1dentis&show_icons=true&text_color=23b6e7&bg_color=0e1625&hide_border=true&cache_seconds=1800&locale=en&layout=compact" alt="rez1dentis" /></p>  
-   
-   ## My development plans:
-
-<a name="learning-now"></a>
-<img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" />
-<img src="https://img.shields.io/badge/React Native-282C34?logo=react&logoColor=61DAFB" alt="React Native logo" title="React Native" height="25" /><br>
-<img src="https://img.shields.io/badge/Vue.js-282C34?logo=vue&logoColor=FFFFFF" alt="Vue.js logo" title="Vue.js" height="25" /><br>
-   
+       
    ## There are some links to contact me:
   
 <a name="telegram" href="https://t.me/Rez1dentis"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/512px-Telegram_logo.svg.png?20220101141644" alt="Rezidentis" height="40" width="40"/></a>
